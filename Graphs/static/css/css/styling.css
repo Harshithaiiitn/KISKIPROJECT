@@ -1,0 +1,31 @@
+*{
+    font-family: verdana;
+}
+body{
+    background-color:white;
+    /* font-family:  sans-serif; */
+    font-family:verdana;
+
+}
+.ytd_table td
+{
+border:1px solid black;
+}
+.bg-light {
+    background-color: whitesmoke;
+}
+/* .container
+{
+    margin-left:10% !important;
+    margin-right:auto !important;
+} */
+
+/* #my_dataviz
+{
+    background-color:grey
+}
+#c1
+{
+    background-color:grey
+
+} */
